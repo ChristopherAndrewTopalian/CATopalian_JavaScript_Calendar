@@ -3,6 +3,8 @@ A JavaScript Calendar that teaches very important programming concepts
 
 ---
 
+Video: https://www.youtube.com/watch?v=ZmLUmee5GDY
+
 ![001](src/media/textures/screenshots/001.PNG)
 
 ![002](src/media/textures/screenshots/002.PNG)
